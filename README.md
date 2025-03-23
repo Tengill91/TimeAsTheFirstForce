@@ -1,2 +1,2 @@
 # TimeAsTheFirstForce
-My theory
+By Robert Tenglund
